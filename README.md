@@ -66,7 +66,8 @@
 
 ### Part 3: SMART Career Goals
 
-1. **Short-term Goals** (Next 1-2 years):
+1. **Short-term Goals (Next 1-2 years):**
+
 **Master Advanced JavaScript Techniques**
    - **Specific**: Complete an advanced JavaScript course focused on ES6+ features and asynchronous programming.
    - **Measurable**: Demonstrate mastery by building at least two complex projects using advanced JavaScript techniques.
